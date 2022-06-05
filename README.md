@@ -4,7 +4,7 @@
 - 🌱 Estudando Python 
 - 🤔 Estou precisando de ajuda para aprender Python
 - ⚡ Caso engraçado: Programei na infância em C# mas não segui com a programação
-
+## Seja Bem Vindo!
 <div align="center">
   <a href="https://github.com/Vinieiras">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vinieiras&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
