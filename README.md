@@ -2,6 +2,7 @@
 
 - 🔭 Hoje ainda não trabalho com programação
 - 🌱 Estudando Python 
+- 🌱 Estudando Java
 - 🤔 Estou precisando de ajuda para aprender Python
 - ⚡ Caso engraçado: Programei na infância em C# mas não segui com a programação
 ## Seja Bem Vindo!
